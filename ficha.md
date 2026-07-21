@@ -8,6 +8,14 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 
 ## Lista de utiles 
 
+## ✍️ Formatos de texto en Markdown 
+- **Negrita:** **Esta oración esta en negrita**
+- **Cursiva:** *Esta oración esta en cursiva*
+- **Tachado:** ~~Esta oración esta tachada~~
+- **Resaltado:** ==Esta oración esta resaltada==
+- **codigo en linea:** `print("Hola Markdown")`
+
+
 ### Peliculas favoritas
 - Avatar: El camino del agua
 - Como entrenar a tu dragon
